@@ -16,7 +16,7 @@ You will have the opportunity to expand your engineering horizons beyond your un
 
 <br>
 
-## Opurtunities
+## Opportunities
 
 You are now aware of future opportunities. But for now, what advantages does this course offer to a student of control systems (other than the fact that you need it to graduate)? Engineering curricula tend to emphasize bottom-up design. That is, you start from the components, develop circuits, and then assemble a product. In top-down design, a highlevel picture of the requirements is first formulated; then the functions and hardware required to implement the system are determined.<br><br>
 You will be able to take a top-down systems approach as a result of this course.
